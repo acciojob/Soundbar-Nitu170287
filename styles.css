@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+.container{
+	padding:60px 40px;
+	background-color:#a064df;
+	display:flex;
+	justify-content:space-between;
+	gap:20px;
+}
+button{
+	background-color:#653399;
+	border:none;
+	color:white;
+	padding:10px;
+	border-radius:4px;
+}
